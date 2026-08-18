@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:josudelgado@grupoandres.com"><img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jiriondodelgado@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/josu-sabin-iriondo-delgado-435096286/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 I design end-to-end data solutions: from data extraction and modeling in SQL Server to predictive models in production and dashboards that business teams use every day. I combine real industry experience with academic research in time series and modern deep learning architectures.
 
-- 📈 **Forecasting & time series** — classical models (ARIMA, GARCH, RandomForests) and modern ones (LightGBM, SSM/Mamba, Transformers, Liquid Neural Networks)
+- 📈 **Forecasting & time series** — classical models (ARIMA, GARCH, RandomForest and other statistical techniques) and modern ones (LightGBM, XGBoost, SSM/Mamba, Transformers, Liquid Neural Networks)
 - 🤖 **Applied Machine Learning** — LightGBM, CatBoost, scikit-learn, PyTorch
 - 📊 **Business Intelligence** — Power BI with advanced DAX and Power Query/M
 - ⚙️ **Automation** — Python pipelines for reporting, ETL and business processes
